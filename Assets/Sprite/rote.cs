@@ -18,6 +18,6 @@ public class AutoRotation : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        transform.Rotate(rotAxis, degPerSec * Time.deltaTime);
     }
 }

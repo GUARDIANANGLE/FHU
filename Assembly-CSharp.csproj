@@ -55,7 +55,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\New Folder\rote.cs" />
+     <Compile Include="Assets\Sprite\Control1.cs" />
+     <Compile Include="Assets\Sprite\explode1.cs" />
+     <Compile Include="Assets\Sprite\Fire1.cs" />
+     <Compile Include="Assets\Sprite\rote.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/Alienware-51M/U3dPro/New Unity Project/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
