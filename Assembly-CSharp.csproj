@@ -56,7 +56,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Sprite\Burst.cs" />
+     <Compile Include="Assets\Sprite\CamerFollow1.cs" />
+     <Compile Include="Assets\Sprite\CamSwitch.cs" />
      <Compile Include="Assets\Sprite\Control1.cs" />
+     <Compile Include="Assets\Sprite\DrawStar.cs" />
      <Compile Include="Assets\Sprite\explode1.cs" />
      <Compile Include="Assets\Sprite\Fire1.cs" />
      <Compile Include="Assets\Sprite\GunBuCo1.cs" />
